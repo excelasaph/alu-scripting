@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/[Ss]chool/).join
+puts ARGV[0].scan(/[sS]chool/).join
